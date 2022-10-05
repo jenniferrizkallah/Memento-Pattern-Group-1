@@ -1,4 +1,4 @@
-# Memento-PatternGCroup-1
+# Memento-Pattern-Group-1
 Fall 2022 - Project
 
 Requirements: 
